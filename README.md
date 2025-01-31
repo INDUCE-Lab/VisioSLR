@@ -7,17 +7,20 @@ With the emergence of AI for good, there has been an increasing interest in buil
 
 ## About this work
 
-The major conrributions of this work are as follows:
+The major contributions of this work are as follows:
 
-- At the leading edge, we propose an innovative sign language recognition framework that harnesses the power of fine tuning, YOLO models, OpenCV, MediaPipe, and NumPy. This framework is designed to enable end-to-end implemtnation of real-time sign language  recognition application.
+- At the leading edge, we propose an innovative sign language recognition framework that harnesses the power of fine-tuning, YOLO models, OpenCV, MediaPipe, and NumPy. This framework is designed to enable end-to-end implementation of real-time sign language  recognition application.
 - We conduct a comparative analysis of fine-tuning YOLOv8, v9, and v11 pre-trained models using a Roboflow ASL sign language small dataset.
 - We deploy the most accurate YOLO model developed using VisioSLR in a real-time SLR application, demonstrating our VisioSLR practical feasibility. 
 
 ## Cite this work
 
-Leila Ismail, Nada Shahin, Henod Tesfaye, and Alain Hennebelle. "VisioSLR: A Vision Data-Driven Framework for Sign Language Video Recognition and Performance Evaluation on Fine-Tuned YOLO Models." The 16th International Conference on Ambient Systems, Networks and Technologies April 22-24, 2025, Patras, Greece.
+Leila Ismail, Nada Shahin, Henod Tesfaye, and Alain Hennebelle. "VisioSLR: A Vision Data-Driven Framework for Sign Language Video Recognition and Performance Evaluation on Fine-Tuned YOLO Models." The 16th International Conference on Ambient Systems, Networks, and Technologies April 22-24, 2025, Patras, Greece.
 
 ## References
 
-Nada Shahin, and Leila Ismail."From rule-based models to deep learning transformers architectures for natural language processing and sign language translation systems: survey, taxonomy and performance evaluation." Artif Intell Rev 2024;57:271. https://doi.org/10.1007/s10462-024-10895-z.
+Nada Shahin, and Leila Ismail."From rule-based models to deep learning transformers architectures for natural language processing and sign language translation systems: survey, taxonomy and performance evaluation." Artificial Intelligence Review. 2024.57:271. https://doi.org/10.1007/s10462-024-10895-z.
 
+Nada Shahin and Leila Ismail. "GLoT: A Novel Gated-Logarithmic Transformer for Efficient Sign Language Translation." IEEE Future Networks World Forum. 2024.
+
+Nada Shahin and Leila Ismail. "ChatGPT, Let us Chat Sign Language: Experiments, Architectural Elements, Challenges and Research Directions." The International Symposium on Networks, Computers and Communications. ISNCC.  2023.
